@@ -46,3 +46,6 @@ console.log("selectedProfessors")
 let students = ["Neville", "Seamus","Dean","Pavarti"];
 students.splice(1,2);
 console.log("students")
+
+let phrase ="Mischief Managed";
+let resule = phrase.trim().toLowerCase().concat('-Harry')
