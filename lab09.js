@@ -24,3 +24,7 @@ console.log("slice(11,17):", quote.slice(11,17));
 let firstname= "Ron"
 let lastname = "Weasly";
 let combined=firstname.concat('',lastname);
+
+let Draco="Draco is a good wizard"
+let replaceDraco = Draco.replace("good","bad");
+console.log("replace()question:", replaceDraco);
