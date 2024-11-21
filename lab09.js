@@ -18,3 +18,6 @@ console.log("toLowercase(0):",characterName.toLowerCase);
 let spell="Expelliarmus!";
 console.log("trim()question:", `${spell.trim()}`);
 
+let quote="I solemnly swear that I am up to no good"
+console.log("slice(11,17):", quote.slice(11,17));
+
