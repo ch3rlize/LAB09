@@ -15,3 +15,5 @@ console.log("toUppercase(0):",characterName.toUpperCase);
 console.log("toLowercase(0):",characterName.toLowerCase);
 
 
+let spell="Expelliarmus!";
+console.log("trim()question:", `${spell.trim()}`);
