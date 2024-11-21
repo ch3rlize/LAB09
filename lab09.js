@@ -42,3 +42,7 @@ console.log("spells")
 let proffesors = ["Dumbleodre","McGonagall","Snape","Hagrid"];
 let selectedProfessors = professors.slice(1,3);
 console.log("selectedProfessors")
+
+let students = ["Neville", "Seamus","Dean","Pavarti"];
+students.splice(1,2);
+console.log("students")
