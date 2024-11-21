@@ -28,3 +28,8 @@ let combined=firstname.concat('',lastname);
 let Draco="Draco is a good wizard"
 let replaceDraco = Draco.replace("good","bad");
 console.log("replace()question:", replaceDraco);
+
+let houses=["Gryffindor","Hufflepuff","Ravenclaw"];
+houses.push("Slytherin");
+houses.pop();
+console.log("houses");
